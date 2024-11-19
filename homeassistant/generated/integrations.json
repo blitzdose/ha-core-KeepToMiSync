@@ -2954,6 +2954,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "keep_to_mi_sync": {
+      "name": "Google Keep To Mi Sync",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "kef": {
       "name": "KEF",
       "integration_type": "hub",

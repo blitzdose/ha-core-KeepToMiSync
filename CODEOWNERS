@@ -681,6 +681,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/keba/ @dannerph
 /homeassistant/components/keenetic_ndms2/ @foxel
 /tests/components/keenetic_ndms2/ @foxel
+/homeassistant/components/keep_to_mi_sync/ @blitzdose
+/tests/components/keep_to_mi_sync/ @blitzdose
 /homeassistant/components/kef/ @basnijholt
 /homeassistant/components/kegtron/ @Ernst79
 /tests/components/kegtron/ @Ernst79

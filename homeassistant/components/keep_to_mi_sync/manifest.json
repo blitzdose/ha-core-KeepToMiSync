@@ -1,0 +1,13 @@
+{
+  "domain": "keep_to_mi_sync",
+  "name": "Google Keep To Mi Sync",
+  "codeowners": ["@blitzdose"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/keep_to_mi_sync",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": ["gkeepapi==0.16.0"],
+  "ssdp": [],
+  "zeroconf": []
+}
